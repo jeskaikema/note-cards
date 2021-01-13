@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="1d0dd281-a6df-4655-81af-bdbe2fff8557" kpf_version="5" name="test.komodoproject">
+<preference-set idref="1d0dd281-a6df-4655-81af-bdbe2fff8557" id="project" preftype="project">
+  <long id="codeintel.scanner.max_depth">10</long>
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.pyo;*.pyc;.svn;_svn;.git;.hg;.bzr;*%25*;tmp*.html;.DS_Store;*.swp;*.kpf;*.komodoproject;.komodotools;__pycache__</string>
+  <long id="prefs_version">1</long>
+  <string id="userEnvironmentStartupOverride">PATH=C:\Users\jesk-\AppData\Local\activestate\ccd26754\DLLs;C:\Users\jesk-\AppData\Local\activestate\ccd26754\Scripts;C:\Users\jesk-\AppData\Local\activestate\ccd26754\Tools\ninja;C:\Users\jesk-\AppData\Local\activestate\ccd26754\Tools;C:\Users\jesk-\AppData\Local\activestate\ccd26754
+PYTHONIOENCODING=utf-8
+PYTHONPATH=C:\Users\jesk-\Desktop\note-cards
+</string>
+</preference-set>
+</project>

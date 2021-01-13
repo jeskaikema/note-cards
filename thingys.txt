@@ -1,0 +1,4 @@
+npm install
+php artisan key:generate
+composer require laravel/ui
+npm run dev
